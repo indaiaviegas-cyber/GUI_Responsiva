@@ -13,8 +13,8 @@ Construir uma página web no lado cliente para o cadastro de produtos e visualiz
 * **CSS3 Responsivo:** Layout fluido utilizando **Flexbox** e **Media Queries** para adaptação perfeita em dispositivos móveis.
 
 ## 📁 Estrutura de Arquivos
-* `HTML.html`: Marcação de dados estruturada e semanticamente correta.
-* `CSS.css`: Regras de estilo, cores, alinhamentos e quebras de layout para celular.
+* `index.html`: Marcação de dados estruturada e semanticamente correta.
+* `style.css`: Regras de estilo, cores, alinhamentos e quebras de layout para celular.
 * `Relatório Técnico.pdf`: Justificativas técnicas e conceituais detalhadas sobre as escolhas de desenvolvimento.
 
 ---
